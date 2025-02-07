@@ -4,7 +4,7 @@ import pyperclip
 import os
 from convert import convert
 # Set the path to Tesseract executable (just the executable name)
-pytesseract.pytesseract.tesseract_cmd = '/home/mohammad/apps/tesseract/tesseract-5.5.0-x86_64.AppImage'  # Ensure tesseract is in your PATH
+pytesseract.pytesseract.tesseract_cmd = ''  # Ensure tesseract is in your PATH
 
 # Get the directory of the current script
 current_dir = os.path.dirname(os.path.abspath(__file__))
