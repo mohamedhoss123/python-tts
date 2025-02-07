@@ -21,3 +21,11 @@ This project allows you to capture images from your clipboard, extract text from
 
    ```bash
    pip install -r requirements.txt
+   ```
+3. **Capture a Screenshot and Run the Code 🚀 :**
+
+   Take a screenshot of your screen.  Then, execute your Python script.  (Provide the command to run the script here, e.g., `python main.py`).  Verify that the code is working as expected.
+
+   ```bash
+   python main.py 
+   ```
