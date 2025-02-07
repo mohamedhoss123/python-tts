@@ -1,0 +1,4 @@
+.venv
+files/
+__pycache__
+tts.sh
